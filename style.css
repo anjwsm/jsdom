@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+}
+h1{
+    color: red;
+
+}
+
+.ghost-img{
+    width: 100%;
+    height: 100vh;
+}
+.rouned-corners{
+    border-radius: 30px;
+}
